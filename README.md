@@ -14,5 +14,10 @@
 2. Edit customer information and possibility looking history prices and images effect (effects haircut etc.).
  1. Easy searching and displaying customers with filters (age, service, number, date, price, additional things)
 1. The possibility of making statistics, graphs based on filters in week, month, year, whole time.
+1. Synchronize with Calendar
+1. Synchronize with phone number and send automatically messages one week and one day before visit
+
+1. Possibility to make book an appointment online for customers with my authorise.
+
 
 ## PS. Dragonfly is good idea! :)
