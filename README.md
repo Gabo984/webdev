@@ -11,6 +11,7 @@
     * Birthday/age
     * Price
     * Additional things (kind, aggresive, patient etc.)
+    * Review on Google (Yes/No)
 2. Edit customer information and possibility looking history prices and images effect (effects haircut etc.).
  1. Easy searching and displaying customers with filters (age, service, number, date, price, additional things)
 1. The possibility of making statistics, graphs based on filters in week, month, year, whole time.
